@@ -1,7 +1,7 @@
 
-Based in Colorado, I am a software engineer working for Paramount+, primarily using #golang, and interested in #o11y and #k8s.
+Based in Colorado, I am a software engineer working for [Paramount+](https://github.com/icahoon-cbsi), primarily using golang, and interested in o11y and k8s.
 
-Away from work I enjoy traveling throughout Colorado with my wonderful wife, playing games (video and tabletop), and programming side projects to keep current with new technology. Having fun with #flyio, #influxdb and #sqlite.
+Away from work I enjoy traveling throughout Colorado with my wonderful wife, playing games (video and tabletop), and programming [side projects](https://arcadium.dev) to keep current with new technology. Having fun with flyio, influxdb and sqlite.
 
 <a rel="me" href="https://fosstodon.org/@Icahoon">Mastodon</a>
 
