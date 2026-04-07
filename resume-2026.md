@@ -5,7 +5,7 @@ https://github.com/icahoon/
 https://www.linkedin.com/in/icahoon/
 
 Senior software engineer with extensive experience designing, developing, and
-deploying software for cloud based applications. I enjoy collaborating with
+deploying software for cloud based applications. Enjoy collaborating with
 other engineers, designers, and stakeholders, as well as contributing to the
 continuous improvement and optimization of the product and the software
 development process. Always eager to learn new skills and tools, and to share
